@@ -7,6 +7,6 @@ You'll need to create a service account in your Google SecOps project (sometimes
 ## Available Actions
 | SOAR Action | Description |
 | ------------- | ------------- |
-| Entity Summary | Returns a JSON object enrichment details for any entity |
+| Entity Summary | Returns a JSON object with enrichment details for any entity |
 | Query SecOps Gemini | Ask a quesiton of the Gemini embedded in your SecOps instance |
 | Query with Statistics | Run a stats/aggregation search and return results to case wall |
